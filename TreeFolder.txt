@@ -1,0 +1,7 @@
+bin
+Documentazione
+IDE\Windows\VisualStudio
+IDE\Windows\CodeBlock
+IDE\Linux\CodeBlock
+Licenze
+Sorgenti

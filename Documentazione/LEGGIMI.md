@@ -27,7 +27,7 @@ Il presente _**TreeProject.bat**_ crea una struttura di cartelle per gestire un 
 Posizionare l'eseguibile e il file _TreeFolder.txt_ nel punto in cui si vuole creare il progetto. Modificare il file _TreeFolder.txt_ secondo le proprie necessita' e avviare l'eseguibile. Verrà chiesto il nome del progetto, digitarlo. In quel punto verrà a crearsi una struttura di cartelle come indicato nel file _TreFolder.txt_.
 
 ## 3) COME CREARE TreeFolder.txt
-Iiziare dalla 1° riga e non lasciare righe vuote. Mettere il percorso relativo di ogni cartella che vuoi creare. Il file _.gitignore_ per GIT verrà inserito in automatico.
+Bisogna iniziare a scrivere dalla 1° riga e non lasciare righe vuote. Mettere il percorso relativo per ogni cartella che si vuole creare. **Un percorso per ogni rigo**. Il file _.gitignore_ per GIT verrà inserito in automatico.
 
 Avviare il progetto tramite IDE dentro la cartella appropriata (Progetto-IDE\O.S.\IDE).
 
