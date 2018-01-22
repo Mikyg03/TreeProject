@@ -1,4 +1,16 @@
 @ECHO OFF
+
+Numerorighe=$( -l .\README.md)
+contariga=0
+for $Contariga == $numerorighe do
+contariga=$contariga+1
+echo -n /usr/bin/head -$Contariga .\README.md | /usr/bin/tail -1
+pause
+
+
+
+
+
 setlocal enabledelayedexpansion 
 set directory[0]=Documentazione\Html 
 set directory[1]=Documentazione\Markdown
